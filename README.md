@@ -10,6 +10,7 @@
             <h3>This is my first web page</h3>
             <p>My Email: ben@hotmail.com</p>
             <p>My mobile :123546    </p>
+            <p>My mobile :123546    </p>
         </div>
     </boby>
 </html> 
